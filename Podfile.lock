@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (4.9.0)
+  - RxSwift (5.0.0)
+  - SnapKit (5.0.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire.git`, tag `4.9.0`)
+  - RxSwift (from `https://github.com/ReactiveX/RxSwift.git`, tag `5.0.0`)
+  - SnapKit (from `https://github.com/SnapKit/SnapKit.git`, tag `5.0.1`)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`, tag `5.0.0`)
+
+EXTERNAL SOURCES:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire.git
+    :tag: 4.9.0
+  RxSwift:
+    :git: https://github.com/ReactiveX/RxSwift.git
+    :tag: 5.0.0
+  SnapKit:
+    :git: https://github.com/SnapKit/SnapKit.git
+    :tag: 5.0.1
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+    :tag: 5.0.0
+
+CHECKOUT OPTIONS:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire.git
+    :tag: 4.9.0
+  RxSwift:
+    :git: https://github.com/ReactiveX/RxSwift.git
+    :tag: 5.0.0
+  SnapKit:
+    :git: https://github.com/SnapKit/SnapKit.git
+    :tag: 5.0.1
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+    :tag: 5.0.0
+
+SPEC CHECKSUMS:
+  Alamofire: 7047cd34c1ed71a0c99126276158cb32bb7af476
+  RxSwift: 7f2114ca50f4fb49704d7638cac40cd39a163950
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftyJSON: 4e107719275086d9d9111e1a7ca6c484b6664574
+
+PODFILE CHECKSUM: d635792deb8a7b06a347bc05c1ef5e76a06db82e
+
+COCOAPODS: 1.8.0
